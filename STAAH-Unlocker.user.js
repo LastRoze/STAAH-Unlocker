@@ -3,7 +3,7 @@
 // @namespace    STAAH Unlocker
 // @description  ZUZU Hospitality - STAAH Unlocker is created to unlock 2 hidden feature from STAAH mapping system.
 // @copyright    ©2019 - Yoga Budiman
-// @version      1.1
+// @version      1.0
 // @author       Last Roze
 // @homepageURL  https://github.com/LastRoze/STAAH-Unlocker
 // @supportURL   https://linkedin.com/in/lastroze
