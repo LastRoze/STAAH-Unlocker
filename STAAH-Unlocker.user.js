@@ -5,7 +5,7 @@
 // @copyright    ©2019 - Yoga Budiman
 // @version      1.1
 // @author       Last Roze
-// @homepageURL  https://github.com/LastRoze/STAAH-Unlocker
+// @homepageURL  https://github.com/LastRoze/
 // @supportURL   https://linkedin.com/in/lastroze
 // @updateURL    https://github.com/LastRoze/STAAH-Unlocker/raw/master/STAAH-Unlocker.meta.js
 // @downloadURL  https://github.com/LastRoze/STAAH-Unlocker/raw/master/STAAH-Unlocker.user.js
