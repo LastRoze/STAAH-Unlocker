@@ -7,8 +7,8 @@
 // @author       Last Roze
 // @homepageURL  https://github.com/LastRoze/STAAH-Unlocker
 // @supportURL   https://linkedin.com/in/lastroze
-// @updateURL    https://github.com/LastRoze/STAAH-Publisher/raw/master/STAAH-Unlocker.meta.js
-// @downloadURL  https://github.com/LastRoze/STAAH-Publisher/raw/master/STAAH-Unlocker.user.js
+// @updateURL    https://github.com/LastRoze/STAAH-Unlocker/raw/master/STAAH-Unlocker.meta.js
+// @downloadURL  https://github.com/LastRoze/STAAH-Unlocker/raw/master/STAAH-Unlocker.user.js
 // @icon         https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1503462675/pnd8ig9snambqtixjnge.jpg
 // @grant        GM_addStyle
 // @grant        GM_deleteValue
